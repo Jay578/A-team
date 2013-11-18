@@ -32,5 +32,3 @@ def bsearch( alist , element):
 			midpoint = (front + back)//2
 
 	return -1
-
-print bsearch( [5,35,40,45,50,55,60,65,70,79] , 79 )
